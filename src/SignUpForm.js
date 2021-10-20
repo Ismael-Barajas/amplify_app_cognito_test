@@ -70,8 +70,6 @@ const SignUpForm = () => {
       </form>
     );
   }
-
-  return <div></div>;
 };
 
 export default SignUpForm;
